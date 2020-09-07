@@ -1,7 +1,4 @@
 annotations/
-annotations_extracted/
 data/
-face_detection/
-train/
-valid/
-xml_coords.pickle
+random/
+me.jpg
